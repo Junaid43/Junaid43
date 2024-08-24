@@ -1,4 +1,4 @@
-## Hi there I am Muhammad Junaid Tariq 👋
+# Hi there I am Muhammad Junaid Tariq 👋
 
 <p align="center"> 
   <samp>
@@ -19,9 +19,19 @@
 <a href="mailto:muhammad.junaid434@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Junaid Email ID"/>
  </a>
+
+ <a href="https://www.fiverr.com/junaid_tariq4" target="_blank">
+  <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Junaid Fiverr Profile"/>
+ </a>
+
+ <a href="https://www.upwork.com/freelancers/~01fab6696d43a64173" target="_blank">
+  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Junaid Upwork Profile"/>
+ </a>
+
+ 
 </p>
 
-# About me
+## About me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
@@ -31,7 +41,7 @@
  📧 &emsp; Feel free to connect:  muhammad.junaid434@gmail.com<br/><br/>
 </p>
  
-# Use To Code
+## Use To Code
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -44,16 +54,23 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
+
+
+
+
 <br/>
 <!---
 ## Top Open Source -
 [![ReactTS](https://github-readme-stats.vercel.app/api/pin/?username=Junaid43&repo=react-ts-starter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/react-ts-starter)
-[![NextTS](https://github-readme-stats.vercel.app/api/pin/?username=Junaid43&repo=next-ts-starter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/next-ts-starter)
-[![Junaid43 Readme](https://github-readme-stats.vercel.app/api/pin/?username=Junaid43&repo=Junaid43&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/devusmanrafiq/Junaid43)
+[![NextTS](https://github-readme-stats.vercel.app/api/pin/?username=Junaid43&repo=next-ts-starter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Junaid43/next-ts-starter)
+[![Junaid43 Readme](https://github-readme-stats.vercel.app/api/pin/?username=Junaid43&repo=Junaid43&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Junaid43)
 --->
 <p align="left">
   <a href="https://github.com/Junaid43?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>

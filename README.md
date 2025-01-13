@@ -5,9 +5,6 @@
     <br>
     「 I am a Full Stack Web Developer 」
     <br>
-    「 CEO & Founder at <a href="http://webdeveloper99.com/" target="_blank">Digital Marketing Agency</a> 」
-    <br>
-    <br>
   </samp>
 </p>
 
